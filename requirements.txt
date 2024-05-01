@@ -1,5 +1,7 @@
-sklearn 
+scikit-learn
 tensorflow 
 matplotlib
 numpy
 pandas
+torch #for cpu version but gpu version use pytorch
+notebook
