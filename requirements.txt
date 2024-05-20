@@ -5,5 +5,7 @@ numpy
 pandas
 torch #for cpu version but gpu version use pytorch
 notebook
-
+seaborn
 pyforest
+gdown
+tinkter
